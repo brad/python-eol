@@ -1,0 +1,23 @@
+README:
+
+This is a python library for using the Encyclopedia of Life (eol.org) API to access data in the encyclopedia.
+
+
+
+REQUIREMENTS:
+
+pyxml
+
+
+
+USAGE:
+All the library does at the moment is retrieve the xml from the Encycopedia of Life and parse it.  Each method returns a minidom XML object.
+
+>>> from eol import eol
+>>> eol = eol()
+
+>>> eol.exemplars()
+>>> eol.search('schefflera')
+>>> eol.page(1150506)
+>>> eol.images(1150506, 1)
+>>> eol.videos(1150506, 1)
