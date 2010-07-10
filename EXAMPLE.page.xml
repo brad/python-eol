@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxon-page>
+  <id type="integer">281</id>
+  <canonical-form>Plantae</canonical-form>
+  <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+  <scientific-name>&lt;i&gt;Plantae&lt;/i&gt;</scientific-name>
+  <common-names>
+    <item>
+      <language_label/>
+      <string>green plants</string>
+    </item>
+    <item>
+      <language_label/>
+      <string>Planten</string>
+    </item>
+    <item>
+      <language_label>af</language_label>
+      <string>Plant</string>
+    </item>
+    <item>
+      <language_label>af</language_label>
+      <string>Plante</string>
+    </item>
+    <item>
+      <language_label>af</language_label>
+      <string>Vaatplant</string>
+    </item>
+    <item>
+      <language_label>ar</language_label>
+      <string>شعبة البذريات</string>
+    </item>
+    <item>
+      <language_label>ar</language_label>
+      <string>عاريات البذور</string>
+    </item>
+    <item>
+      <language_label>ar</language_label>
+      <string>نبات</string>
+    </item>
+    <item>
+      <language_label>az</language_label>
+      <string>Bitkilər</string>
+    </item>
+    <item>
+      <language_label>bg</language_label>
+      <string>Васкуларни растения</string>
+    </item>
+    <item>
+      <language_label>bg</language_label>
+      <string>Растения</string>
+    </item>
+    <item>
+      <language_label>bg</language_label>
+      <string>Семенни растения</string>
+    </item>
+    <item>
+      <language_label>br</language_label>
+      <string>Planta</string>
+    </item>
+    <item>
+      <language_label>bs</language_label>
+      <string>Biljke</string>
+    </item>
+    <item>
+      <language_label>ca</language_label>
+      <string>gimnosperma</string>
+    </item>
+    <item>
+      <language_label>ca</language_label>
+      <string>Planta</string>
+    </item>
+    <item>
+      <language_label>cs</language_label>
+      <string>Cévnaté rostliny</string>
+    </item>
+    <item>
+      <language_label>cs</language_label>
+      <string>Rostliny</string>
+    </item>
+    <item>
+      <language_label>cs</language_label>
+      <string>Semenné rostliny</string>
+    </item>
+    <item>
+      <language_label>cs</language_label>
+      <string>Zelené rostliny</string>
+    </item>
+    <item>
+      <language_label>cy</language_label>
+      <string>Planhigyn</string>
+    </item>
+    <item>
+      <language_label>da</language_label>
+      <string>Frøbregner</string>
+    </item>
+    <item>
+      <language_label>da</language_label>
+      <string>Grønne planter</string>
+    </item>
+    <item>
+      <language_label>da</language_label>
+      <string>Nøgenfrøede</string>
+    </item>
+    <item>
+      <language_label>de</language_label>
+      <string>Gefäßpflanzen</string>
+    </item>
+    <item>
+      <language_label>de</language_label>
+      <string>Pflanzen</string>
+    </item>
+    <item>
+      <language_label>de</language_label>
+      <string>Samenpflanzen</string>
+    </item>
+    <item>
+      <language_label>el</language_label>
+      <string>Γυμνόσπερμο</string>
+    </item>
+    <item>
+      <language_label>el</language_label>
+      <string>Φυτά</string>
+    </item>
+    <item>
+      <language_label>el</language_label>
+      <string>Φυτό</string>
+    </item>
+    <item>
+      <language_label>en</language_label>
+      <string>plants</string>
+    </item>
+    <item>
+      <language_label>eo</language_label>
+      <string>Gimnospermoj</string>
+    </item>
+    <item>
+      <language_label>eo</language_label>
+      <string>Planto</string>
+    </item>
+    <item>
+      <language_label>eo</language_label>
+      <string>Plantoj</string>
+    </item>
+    <item>
+      <language_label>es</language_label>
+      <string>Plantas</string>
+    </item>
+    <item>
+      <language_label>es</language_label>
+      <string>Pteridospermatophyta</string>
+    </item>
+    <item>
+      <language_label>es</language_label>
+      <string>Spermatophyta</string>
+    </item>
+    <item>
+      <language_label>es</language_label>
+      <string>Tracheobionta</string>
+    </item>
+    <item>
+      <language_label>es</language_label>
+      <string>Viridiplantae</string>
+    </item>
+    <item>
+      <language_label>et</language_label>
+      <string>Taimed</string>
+    </item>
+    <item>
+      <language_label>fa</language_label>
+      <string>آوندداران</string>
+    </item>
+    <item>
+      <language_label>fa</language_label>
+      <string>گیاه</string>
+    </item>
+    <item>
+      <language_label>fi</language_label>
+      <string>Kasvi</string>
+    </item>
+    <item>
+      <language_label>fi</language_label>
+      <string>kasvit</string>
+    </item>
+    <item>
+      <language_label>fi</language_label>
+      <string>Paljassiemeniset</string>
+    </item>
+    <item>
+      <language_label>fi</language_label>
+      <string>Siemenkasvit</string>
+    </item>
+    <item>
+      <language_label>fo</language_label>
+      <string>Plantur</string>
+    </item>
+    <item>
+      <language_label>fr</language_label>
+      <string>Chlorobionta</string>
+    </item>
+    <item>
+      <language_label>fr</language_label>
+      <string>plantes</string>
+    </item>
+    <item>
+      <language_label>ga</language_label>
+      <string>Planda</string>
+    </item>
+    <item>
+      <language_label>ga</language_label>
+      <string>Spermatophyta</string>
+    </item>
+    <item>
+      <language_label>gl</language_label>
+      <string>Planta</string>
+    </item>
+    <item>
+      <language_label>gl</language_label>
+      <string>Plantas</string>
+    </item>
+    <item>
+      <language_label>gl</language_label>
+      <string>Pteridospermatophyta</string>
+    </item>
+    <item>
+      <language_label>gl</language_label>
+      <string>Ximnosperma</string>
+    </item>
+    <item>
+      <language_label>gn</language_label>
+      <string>Ka'avo</string>
+    </item>
+    <item>
+      <language_label>he</language_label>
+      <string>חשופי זרע</string>
+    </item>
+    <item>
+      <language_label>he</language_label>
+      <string>צומח</string>
+    </item>
+    <item>
+      <language_label>he</language_label>
+      <string>צמחים</string>
+    </item>
+    <item>
+      <language_label>he</language_label>
+      <string>צמחים וסקולריים</string>
+    </item>
+    <item>
+      <language_label>hi</language_label>
+      <string>पादप</string>
+    </item>
+    <item>
+      <language_label>hr</language_label>
+      <string>Biljke</string>
+    </item>
+    <item>
+      <language_label>hu</language_label>
+      <string>Növények</string>
+    </item>
+    <item>
+      <language_label>hu</language_label>
+      <string>Nyitvatermők</string>
+    </item>
+    <item>
+      <language_label>hu</language_label>
+      <string>Virágos növények</string>
+    </item>
+    <item>
+      <language_label>id</language_label>
+      <string>Tumbuhan</string>
+    </item>
+    <item>
+      <language_label>id</language_label>
+      <string>Tumbuhan berbiji terbuka</string>
+    </item>
+    <item>
+      <language_label>io</language_label>
+      <string>Fanerogamo</string>
+    </item>
+    <item>
+      <language_label>is</language_label>
+      <string>Jurt</string>
+    </item>
+    <item>
+      <language_label>is</language_label>
+      <string>Planta</string>
+    </item>
+    <item>
+      <language_label>it</language_label>
+      <string>Piante</string>
+    </item>
+    <item>
+      <language_label>it</language_label>
+      <string>Spermatophyta</string>
+    </item>
+    <item>
+      <language_label>it</language_label>
+      <string>Vegetali</string>
+    </item>
+    <item>
+      <language_label>iu</language_label>
+      <string>ᐱᕈᖅᑐᖅ/piruqtuq</string>
+    </item>
+    <item>
+      <language_label>ja</language_label>
+      <string>植物</string>
+    </item>
+    <item>
+      <language_label>ja</language_label>
+      <string>種子植物</string>
+    </item>
+    <item>
+      <language_label>jv</language_label>
+      <string>Tetanduran wewiji</string>
+    </item>
+    <item>
+      <language_label>ka</language_label>
+      <string>მცენარეები</string>
+    </item>
+    <item>
+      <language_label>kk</language_label>
+      <string>Ашықтұқымдылар</string>
+    </item>
+    <item>
+      <language_label>ko</language_label>
+      <string>관다발식물</string>
+    </item>
+    <item>
+      <language_label>ko</language_label>
+      <string>식물</string>
+    </item>
+    <item>
+      <language_label>ko</language_label>
+      <string>종자식물</string>
+    </item>
+    <item>
+      <language_label>ku</language_label>
+      <string>Riwekên tovdar (Spermatophyta)</string>
+    </item>
+    <item>
+      <language_label>la</language_label>
+      <string>Planta</string>
+    </item>
+    <item>
+      <language_label>la</language_label>
+      <string>Plantae</string>
+    </item>
+    <item>
+      <language_label>lb</language_label>
+      <string>Planzeräich</string>
+    </item>
+    <item>
+      <language_label>ln</language_label>
+      <string>Etɔɛlɛ</string>
+    </item>
+    <item>
+      <language_label>lt</language_label>
+      <string>Augalai</string>
+    </item>
+    <item>
+      <language_label>lt</language_label>
+      <string>Induočiai</string>
+    </item>
+    <item>
+      <language_label>mk</language_label>
+      <string>Растенија</string>
+    </item>
+    <item>
+      <language_label>mr</language_label>
+      <string>वनस्पती</string>
+    </item>
+    <item>
+      <language_label>nl</language_label>
+      <string>Chloroplastida</string>
+    </item>
+    <item>
+      <language_label>nl</language_label>
+      <string>Naaktzadigen</string>
+    </item>
+    <item>
+      <language_label>nl</language_label>
+      <string>Planten</string>
+    </item>
+    <item>
+      <language_label>nl</language_label>
+      <string>Vaatplanten</string>
+    </item>
+    <item>
+      <language_label>nl</language_label>
+      <string>Zaadplanten</string>
+    </item>
+    <item>
+      <language_label>nn</language_label>
+      <string>Plantar</string>
+    </item>
+    <item>
+      <language_label>no</language_label>
+      <string>Frøbregner</string>
+    </item>
+    <item>
+      <language_label>no</language_label>
+      <string>Karplanter</string>
+    </item>
+    <item>
+      <language_label>no</language_label>
+      <string>Nakenfrøede planter</string>
+    </item>
+    <item>
+      <language_label>no</language_label>
+      <string>Planter</string>
+    </item>
+    <item>
+      <language_label>oc</language_label>
+      <string>Plantae</string>
+    </item>
+    <item>
+      <language_label>pl</language_label>
+      <string>Rośliny</string>
+    </item>
+    <item>
+      <language_label>pl</language_label>
+      <string>Rośliny naczyniowe</string>
+    </item>
+    <item>
+      <language_label>pl</language_label>
+      <string>Rośliny nasienne</string>
+    </item>
+    <item>
+      <language_label>pl</language_label>
+      <string>Rośliny zielone</string>
+    </item>
+    <item>
+      <language_label>pt</language_label>
+      <string>Gimnospérmica</string>
+    </item>
+    <item>
+      <language_label>pt</language_label>
+      <string>Planta</string>
+    </item>
+    <item>
+      <language_label>pt</language_label>
+      <string>Plantas</string>
+    </item>
+    <item>
+      <language_label>pt</language_label>
+      <string>Pteridospermatophyta</string>
+    </item>
+    <item>
+      <language_label>pt</language_label>
+      <string>Vegetal</string>
+    </item>
+    <item>
+      <language_label>qu</language_label>
+      <string>Muruyuq</string>
+    </item>
+    <item>
+      <language_label>ro</language_label>
+      <string>Cormofit</string>
+    </item>
+    <item>
+      <language_label>ro</language_label>
+      <string>Plantă</string>
+    </item>
+    <item>
+      <language_label>ro</language_label>
+      <string>Plante</string>
+    </item>
+    <item>
+      <language_label>ru</language_label>
+      <string>Голосеменные</string>
+    </item>
+    <item>
+      <language_label>ru</language_label>
+      <string>Растения</string>
+    </item>
+    <item>
+      <language_label>sh</language_label>
+      <string>Biljke</string>
+    </item>
+    <item>
+      <language_label>sk</language_label>
+      <string>Cievnaté rastliny</string>
+    </item>
+    <item>
+      <language_label>sk</language_label>
+      <string>Nahosemenné rastliny</string>
+    </item>
+    <item>
+      <language_label>sk</language_label>
+      <string>Rastliny</string>
+    </item>
+    <item>
+      <language_label>sk</language_label>
+      <string>Semenné rastliny</string>
+    </item>
+    <item>
+      <language_label>sl</language_label>
+      <string>Rastline</string>
+    </item>
+    <item>
+      <language_label>sq</language_label>
+      <string>Bimët</string>
+    </item>
+    <item>
+      <language_label>sr</language_label>
+      <string>Golosemenice</string>
+    </item>
+    <item>
+      <language_label>sr</language_label>
+      <string>Биљке</string>
+    </item>
+    <item>
+      <language_label>sv</language_label>
+      <string>Kärlväxter</string>
+    </item>
+    <item>
+      <language_label>sv</language_label>
+      <string>växt</string>
+    </item>
+    <item>
+      <language_label>sw</language_label>
+      <string>Mmea</string>
+    </item>
+    <item>
+      <language_label>ta</language_label>
+      <string>வித்துமூடியிலி</string>
+    </item>
+    <item>
+      <language_label>te</language_label>
+      <string>మొక్క</string>
+    </item>
+    <item>
+      <language_label>th</language_label>
+      <string>พช</string>
+    </item>
+    <item>
+      <language_label>tl</language_label>
+      <string>Halaman</string>
+    </item>
+    <item>
+      <language_label>to</language_label>
+      <string>ʻakau</string>
+    </item>
+    <item>
+      <language_label>tr</language_label>
+      <string>Açık tohumlular</string>
+    </item>
+    <item>
+      <language_label>tr</language_label>
+      <string>Bitkiler</string>
+    </item>
+    <item>
+      <language_label>tr</language_label>
+      <string>Tohumlu bitkiler</string>
+    </item>
+    <item>
+      <language_label>uk</language_label>
+      <string>Рослини</string>
+    </item>
+    <item>
+      <language_label>uk</language_label>
+      <string>Судинні рослини</string>
+    </item>
+    <item>
+      <language_label>vi</language_label>
+      <string>Thực vật</string>
+    </item>
+    <item>
+      <language_label>vi</language_label>
+      <string>Thực vật có hạt</string>
+    </item>
+    <item>
+      <language_label>vi</language_label>
+      <string>Thực vật hạt trần</string>
+    </item>
+    <item>
+      <language_label>wo</language_label>
+      <string>Gàncax</string>
+    </item>
+    <item>
+      <language_label>zh</language_label>
+      <string>植物界</string>
+    </item>
+  </common-names>
+  <overview>
+    <nil-classes type="array"/>
+  </overview>
+  <table-of-contents>
+    <item>
+      <id>3</id>
+      <label>Description</label>
+    </item>
+    <item>
+      <id>290</id>
+      <label>General Description</label>
+    </item>
+    <item>
+      <id>9</id>
+      <label>Biodiversity Heritage Library</label>
+    </item>
+    <item>
+      <id>7</id>
+      <label>References and More Information</label>
+    </item>
+    <item>
+      <id>17</id>
+      <label>Literature References</label>
+    </item>
+    <item>
+      <id>226</id>
+      <label>Content Partners</label>
+    </item>
+    <item>
+      <id>227</id>
+      <label>Search the Web</label>
+    </item>
+    <item>
+      <id>303</id>
+      <label>Names and Taxonomy</label>
+    </item>
+    <item>
+      <id>304</id>
+      <label>Related Names</label>
+    </item>
+    <item>
+      <id>305</id>
+      <label>Synonyms</label>
+    </item>
+    <item>
+      <id>13</id>
+      <label>Common Names</label>
+    </item>
+  </table-of-contents>
+  <ancestors>
+    <taxon-page>
+      <id type="integer">281</id>
+      <canonical-form>Plantae</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>&lt;i&gt;Plantae&lt;/i&gt;</scientific-name>
+    </taxon-page>
+  </ancestors>
+  <children>
+    <taxon-page>
+      <id type="integer">282</id>
+      <canonical-form>Magnoliophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Magnoliophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4524</id>
+      <canonical-form>Rhodophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>&lt;i&gt;Rhodophyta&lt;/i&gt;</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4494</id>
+      <canonical-form>Pteridophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Pteridophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4490</id>
+      <canonical-form>Psilophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Psilophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4468</id>
+      <canonical-form>Prasinophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Prasinophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">8495527</id>
+      <canonical-form>Not assigned</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Not assigned</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4235</id>
+      <canonical-form>Cycadophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Cycadophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4165</id>
+      <canonical-form>Lycopodiophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Lycopodiophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4094</id>
+      <canonical-form>Hepatophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Hepatophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4081</id>
+      <canonical-form>Glaucophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Glaucophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4077</id>
+      <canonical-form>Equisetophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Equisetophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4068</id>
+      <canonical-form>Cyanidiophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Cyanidiophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">3893</id>
+      <canonical-form>Chlorophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>&lt;i&gt;Chlorophyta&lt;/i&gt;</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4062</id>
+      <canonical-form>Pinophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Pinophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4086</id>
+      <canonical-form>Ginkgophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Ginkgophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">4090</id>
+      <canonical-form>Gnetophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Gnetophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">3768</id>
+      <canonical-form>Bryophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>&lt;i&gt;Bryophyta&lt;/i&gt;</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">3685</id>
+      <canonical-form>Bacillariophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Bacillariophyta</scientific-name>
+    </taxon-page>
+    <taxon-page>
+      <id type="integer">3678</id>
+      <canonical-form>Anthocerotophyta</canonical-form>
+      <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+      <scientific-name>Anthocerotophyta</scientific-name>
+    </taxon-page>
+  </children>
+  <curators>
+    <user>
+      <credentials>Frankis, M. P. (1989). Generic Inter-relationships in Pinaceae. &lt;i&gt;Notes Royal Botanic Garden Edinburgh&lt;/i&gt; 45:527–548.&lt;br&gt;
+        Huxley, A. et al., eds. (1992). &lt;i&gt;The New Royal Horticultural Society Dictionary of Gardening&lt;/i&gt; (Macmillan): major contributions to this encyclopaedic 4-volume dictionary, including authorship of the articles on Arboriculture and Conifers, and extensive revision and editing of entries of all conifer genera and many broadleaf tree genera.&lt;br&gt;
+        Frankis, M. P. (1992). Krüper's Nuthatch Sitta krueperi and Turkish Pine Pinus brutia: an evolving association? &lt;i&gt;Sandgrouse&lt;/i&gt; 13:92–97 (1992).&lt;br&gt;
+        Frankis, M. P. (1993). Nootka Cypress: Chamaecyparis or Cupressus? &lt;i&gt;Conif. Soc. Austral. Newsletter&lt;/i&gt; 12: 9-10.&lt;br&gt;
+        Frankis, M. P., &amp; Lauria, F. (1994). The maturation and dispersal of cedar cones and seeds. &lt;i&gt;International Dendrology Society Yearbook&lt;/i&gt; 1993: 43-46.&lt;br&gt;
+        Frankis, M. P. (1999). Pinus brutia. &lt;i&gt;Curtis's Botanical Magazine&lt;/i&gt; 16: 173-184.&lt;br&gt;
+        Frankis, M. P. (2001). Pinaceae. pp. 5-7 in: Güner, A. et al., eds. &lt;i&gt;Flora of Turkey&lt;/i&gt; vol. 11 supplement.&lt;br&gt;
+        Farjon, A., &amp; Frankis, M. P. (2002). Pinus pungens. &lt;i&gt;Curtis's Botanical Magazine&lt;/i&gt; 19: 97-103.&lt;br&gt;
+        Frankis, M. P. (2009). The high altitude white pines (Pinus L. subgenus Strobus Lemmon, Pinaceae) of Mexico and the adjacent SW USA. &lt;i&gt;International Dendrology Society Yearbook&lt;/i&gt; 2008: 64-72.
+        </credentials>
+      <id type="integer">2723</id>
+      <username>Conifers</username>
+    </user>
+    <user>
+      <credentials>Clade: Plantae
+
+Credentials: Encyclopedia of Life Staff</credentials>
+      <id type="integer">30041</id>
+      <username>tbarbaro</username>
+    </user>
+    <user>
+      <credentials>Associate Curator of Flowering Plants, Field Museum of Natural History</credentials>
+      <id type="integer">34666</id>
+      <username>rree</username>
+    </user>
+    <user>
+      <credentials>1. Staff at University of the SOuth Pacific
+2. Author: Skelton, P.A. &amp; South, G.R. 2007. Marine benthic algae of the Samoan Archipelago, South Pacific with emphasis on the Apia District. Nova Hedwigia. Beiheft 132. 1-350.</credentials>
+      <id type="integer">38125</id>
+      <username>paskelton</username>
+    </user>
+    <user>
+      <credentials>1. currently Senior Scholar (retired Prof. &amp; Head, Dept Botany), Dept Biol. Sci., Univ. of Manitoba
+2. Punter, D., &amp; Gilbert, J. 1991.  Explosive discharge of jack pine dwarf mistletoe (Arceuthobium     americanum) seed in Manitoba. Can.J.For.Res. 21: 434-438.
+3. Can. Botanical Assoc.; Can. Phytopathological Society
+</credentials>
+      <id type="integer">38955</id>
+      <username>punterd</username>
+    </user>
+    <user>
+      <credentials>Associate Curator, Informatics
+Florida Museum of Natural History
+University of Florida</credentials>
+      <id type="integer">39917</id>
+      <username>rbeaman</username>
+    </user>
+    <user>
+      <credentials>1. Professor of genetics and plant breeding; ex-genebank curator for wheat landraces
+2. KCHOUK ME, S THAMINY AND H ZEMNI (1997) Cytogenetic Structures in durum Cultivars from Tunisia: Hybrids with cv. Senatore Capelli. Agricoltura Mediterranea. 1997 ; 127 (138-147).
+3. Regional Coordinator of BioNET-NAFRINET; Founder-President of Tunisian Association for Taxonomy.</credentials>
+      <id type="integer">40217</id>
+      <username>kchouk</username>
+    </user>
+    <user>
+      <credentials>1. Faculty (Plant and restoration ecology) at the Department of Biology,  University of Louisiana, Monroe.
+2. Authored several papers in peer-reviewed journals (both national and international)
+4. Referee for the journals Wetlands and Environmental Management.
+3. Member of the SWS, ESA, ASB, SER (All primarily related to ecology and ecosystems)</credentials>
+      <id type="integer">42795</id>
+      <username>Joydeep</username>
+    </user>
+    <user>
+      <credentials>- Botanist, Msc., Universidade Federal de Pernambuco (UFPE), Brazil. Now, working on Universidade Federal do Vale do São Francisco (UNIVASF) as researcher.
+
+- Member numer 1532 of the "Asociación Latinoamericana de Botánica" (Latin American Botanical Association). </credentials>
+      <id type="integer">43147</id>
+      <username>Diogo_Araujo</username>
+    </user>
+  </curators>
+  <comments>
+    <count>1</count>
+  </comments>
+  <images>
+    <count>169</count>
+  </images>
+  <videos>
+    <count>0</count>
+  </videos>
+</taxon-page>

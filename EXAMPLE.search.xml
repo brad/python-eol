@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<results>
+    <common-results type="array">
+        <common-result type="array">
+            <common-result>
+                <id type="integer">1150461</id>
+                <canonical-form>Schefflera procumbens</canonical-form>
+                <iucn-conservation-status>Vulnerable (VU)</iucn-conservation-status>
+                <scientific-name>&lt;i&gt;Schefflera procumbens&lt;/i&gt; (Hemsl.) F.Friedmann</scientific-name>
+            </common-result>
+        </common-result>
+        <taxon-concepts type="array">
+            <taxon-concept>
+                <id type="integer">1150882</id>
+                <canonical-form>Schefflera actinophylla</canonical-form>
+                <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                <scientific-name>&lt;i&gt;Schefflera actinophylla&lt;/i&gt; (Endl.) Harms</scientific-name>
+            </taxon-concept>
+        </taxon-concepts>
+        <taxon-concepts type="array">
+            <taxon-concept>
+                <id type="integer">11866647</id>
+                <canonical-form>Schefflera arboricola</canonical-form>
+                <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                <scientific-name>&lt;i&gt;Schefflera&lt;/i&gt; cf. &lt;i&gt;arboricola&lt;/i&gt; 317PV02</scientific-name>
+            </taxon-concept>
+        </taxon-concepts>
+        <taxon-concepts type="array">
+            <taxon-concept>
+                <id type="integer">1150858</id>
+                <canonical-form>Schefflera arboricola</canonical-form>
+                <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                <scientific-name>&lt;i&gt;Schefflera arboricola&lt;/i&gt; (Hayata) Merr.</scientific-name>
+            </taxon-concept>
+        </taxon-concepts>
+    </common-results>
+    <suggested-results type="array"/>
+        <scientific-results type="array">
+            <scientific-result type="array">
+                <scientific-result>
+                    <id type="integer">11866657</id>
+                    <canonical-form>Schefflera</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>&lt;i&gt;Schefflera&lt;/i&gt; sp. Ecuador</scientific-name>
+                </scientific-result>
+            </scientific-result>
+            <taxon-concepts type="array">
+                <taxon-concept>
+                    <id type="integer">11866658</id>
+                    <canonical-form>Schefflera</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>&lt;i&gt;Schefflera&lt;/i&gt; sp. Guyana</scientific-name>
+                </taxon-concept>
+            </taxon-concepts>
+            <taxon-concepts type="array">
+                <taxon-concept>
+                    <id type="integer">11866689</id>
+                    <canonical-form>Schefflera</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>&lt;i&gt;Schefflera&lt;/i&gt; sp. Madagascar</scientific-name>
+                </taxon-concept>
+            </taxon-concepts>
+            <taxon-concepts type="array">
+                <taxon-concept>
+                    <id type="integer">11866690</id>
+                    <canonical-form>Schefflera</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>&lt;i&gt;Schefflera&lt;/i&gt; sp. Vietnam</scientific-name>
+                </taxon-concept>
+            </taxon-concepts>
+            <taxon-concepts type="array">
+                <taxon-concept>
+                    <id type="integer">11866707</id>
+                    <canonical-form>Schefflera</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>&lt;i&gt;Schefflera&lt;/i&gt; sp. Wen 8360</scientific-name>
+                </taxon-concept>
+            </taxon-concepts>
+            <taxon-concepts type="array">
+                <taxon-concept>
+                    <id type="integer">11270956</id>
+                    <canonical-form>Schefflera</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>&lt;i&gt;Schefflera&lt;/i&gt; J.R. Forst. &amp; G. Forst.</scientific-name>
+                </taxon-concept>
+            </taxon-concepts>
+            <taxon-concepts type="array">
+                <taxon-concept>
+                    <id type="integer">32352</id>
+                    <canonical-form>Schefflera</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>Schefflera</scientific-name>
+                </taxon-concept>
+            </taxon-concepts>
+            <taxon-concepts type="array">
+                <taxon-concept>
+                    <id type="integer">11272366</id>
+                    <canonical-form>Schefflera baillonii</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>&lt;i&gt;Schefflera baillonii&lt;/i&gt;</scientific-name>
+                </taxon-concept>
+            </taxon-concepts>
+            <taxon-concepts type="array">
+                <taxon-concept>
+                    <id type="integer">1150381</id>
+                    <canonical-form>Schefflera stenophylla</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>&lt;i&gt;Schefflera stenophylla&lt;/i&gt; Harms</scientific-name>
+                </taxon-concept>
+            </taxon-concepts>
+            <taxon-concepts type="array">
+                <taxon-concept>
+                    <id type="integer">1150506</id>
+                    <canonical-form>Schefflera pagiophylla</canonical-form>
+                    <iucn-conservation-status>NOT EVALUATED</iucn-conservation-status>
+                    <scientific-name>&lt;i&gt;Schefflera pagiophylla&lt;/i&gt; Harms</scientific-name>
+                </taxon-concept>
+            </taxon-concepts>
+        </scientific-results>
+</results>
